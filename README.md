@@ -1,7 +1,7 @@
 # TSOHA2022
 Tietokantasovellus harjoitustyö
 
-Ravintolasovellus
+Ravintolasovellus  
 Sovelluksessa näkyy Helsingin keskustan alueen ravintoloita, joista voi etsiä tietoa ja lukea arvioita. Jokainen käyttäjä on peruskäyttäjä tai ylläpitäjä.
 
 Käyttäjä voi kirjautua sisään ja ulos sekä luoda uuden tunnuksen.
